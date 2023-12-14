@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-<a href="https://www.kaggle.com/abdullahkhanuet22"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/kaggle.png" alt="Kaggle Badge" width="120" height="auto"></a>
+<a href="https://www.kaggle.com/abdullahkhanuet22"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/kaggle.png" alt="Kaggle Badge" width="100" height="auto"></a>
 </p>
 
 <p align="center">
-<a href="https://medium.com/@abdullahkhan4465917"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/medium.png" alt="Medium Badge" width="120" height="auto"></a>
+<a href="https://medium.com/@abdullahkhan4465917"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/medium.png" alt="Medium Badge" width="110" height="auto"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
