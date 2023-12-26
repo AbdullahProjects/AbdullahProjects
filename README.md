@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.kaggle.com/abdullahkhanuet22"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/kaggle.png" alt="Kaggle Badge" width="101" height="auto"></a>
+<a href="https://www.kaggle.com/abdullahkhanuet22"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/kaggle.png" alt="Kaggle Badge" width="97" height="auto"></a>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://profile.codingninjas.com/478037bc-5b80-413c-a4cb-10a0427ca2d3"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/Coding%20Ninjas.png" alt="Coding Ninjas Badge" width="110" height="auto"></a>
+<a href="https://profile.codingninjas.com/478037bc-5b80-413c-a4cb-10a0427ca2d3"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/Coding%20Ninjas.png" alt="Coding Ninjas Badge" width="113" height="auto"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
