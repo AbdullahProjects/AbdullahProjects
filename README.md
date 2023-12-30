@@ -24,11 +24,9 @@
 
 ### &nbsp;About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan. I have expertise in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing and Large Language Model. All my projects are available in this github profile. My original github profile is here: Link--> https://github.com/AbdullahKhanKakar/AbdullahKhanKakar
+I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan. I am currently learning and exploring Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Data Analytics. All my projects are available in this github profile. My original github profile is here: Link--> https://github.com/AbdullahKhanKakar/AbdullahKhanKakar
 
-- 🔭 I’m working as data scientist.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time, I read and write blogs on Medium, Take participation in Kaggle competitions and Solve problems on CodingNinjas related to Python and Data Structures.
 - 📫 How to reach me: Email----abdullahkhan4465917@gmail.com
 
 ---
