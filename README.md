@@ -21,7 +21,7 @@
 
 ### &nbsp;About Me :
 
-My name is Abdullah Khan Kakar. I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lahore, Pakistan. Studying Bachelor's of Business and Information Technology(BBIT). I am currently learning and exploring Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Data Analytics. All my projects are available in this github profile. My original github profile is here: Link--> https://github.com/AbdullahKhanKakar/AbdullahKhanKakar
+My name is Abdullah Khan Kakar. I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lahore, Pakistan. Studying Bachelor's of Business and Information Technology(BBIT) from University of Engineering & Technology, Lahore. I am currently learning and exploring Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Data Analytics. All my projects are available in this github profile. My original github profile is here: Link--> https://github.com/AbdullahKhanKakar/AbdullahKhanKakar
 
 - ⚡ In my free time, I read and write blogs on Medium, Take participation in Kaggle competitions and Solve problems on CodingNinjas related to Python and Data Structures.
 - 📫 How to reach me: Email----abdullahkhan4465917@gmail.com
