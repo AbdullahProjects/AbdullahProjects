@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner%20(1).png)
+![Github Banner](https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Banner.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullahkhankakar/" target="_blank">
