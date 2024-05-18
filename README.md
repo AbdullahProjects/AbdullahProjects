@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner%20(2).png)
+![Github Banner](https://github.com/AbdullahKhanKakar/AbdullahKhanKakar/blob/main/Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner%20(4).png)
   
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullahkhankakar/" target="_blank">
