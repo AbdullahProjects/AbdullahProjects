@@ -13,7 +13,8 @@
 </div>
 
 
-<!-- <h1 align="center">👇click to find me on</h1> -->
+<p><h1 align="center">👇Download: <a href="https://drive.google.com/file/d/1wlOZNdeXHIE2QbzjkuDHnGKJordYzOwx/view?usp=sharing">Resume</a></h1></p>
+
 <!-- <p align="center">
 <a href="https://www.linkedin.com/in/abdullah-khan-kakar-555452278/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> --- 
 <a href="https://www.kaggle.com/abdullahkhanuet22"><img src="https://github.com/AbdullahProjects/AbdullahProjects/blob/main/kaggle.png" alt="Kaggle Badge" width="75" height="auto"></a> --- 
