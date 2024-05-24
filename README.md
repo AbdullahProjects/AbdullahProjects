@@ -13,7 +13,7 @@
 </div>
 
 
-<p><h1 align="center">👇Download: <a href="https://drive.google.com/file/d/1wlOZNdeXHIE2QbzjkuDHnGKJordYzOwx/view?usp=sharing">Resume</a></h1></p>
+<p><h3 align="center">👩‍🏫 Download: <a href="https://drive.google.com/file/d/1wlOZNdeXHIE2QbzjkuDHnGKJordYzOwx/view?usp=sharing">Resume</a></h3></p>
 
 <!-- <p align="center">
 <a href="https://www.linkedin.com/in/abdullah-khan-kakar-555452278/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> --- 
