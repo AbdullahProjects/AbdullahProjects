@@ -28,7 +28,7 @@
 
 ### &nbsp;About Me :
 
-My name is Abdullah Khan Kakar. I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lahore, Pakistan. Studying Bachelor's of Business and Information Technology(BBIT) from University of Engineering & Technology, Lahore. Switching my career from AI, Machine Learning and Deep Learning towards Mobile App Development with Flutter and Dart with Django and Firebase as backend. All my projects are available in this github profile. My main GitHub Profile is : Link--> https://github.com/AbdullahKhanKakar
+My name is Abdullah Khan Kakar. I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lahore, Pakistan. Studying Bachelor's of Business and Information Technology(BBIT) from University of Engineering & Technology, Lahore. I have a great interest and experience in Mobile Application Development and currently working on this skillset: Flutter, Dart, MySQL, Firebase. All my projects are available in this github profile. My main GitHub Profile is : Link--> https://github.com/AbdullahKhanKakar
 
 - ⚡ In my free time I solve problems on Leetcode, read tech articles, participate in Kaggle competitions and writing blogs on Medium.com.
 - 📫 How to reach me: Email----abdullahkhan4465917@gmail.com
