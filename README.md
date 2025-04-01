@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 With over 3 years of experience in the coding field, I am a skilled Flutter Developer specializing in building mobile and web applications. Specialize in Flutter, Dart, Firebase, and REST API integration.
+🚀 With over 3 years of experience in the coding field, I am a skilled Flutter Developer specializing in building mobile and web applications. Expert in Flutter, Dart, Firebase, and REST API integration.
 
 🕰 Previously, I worked in web development, utilizing HTML5, CSS3, JavaScript, and the Tailwind CSS framework. Additionally, I have experience in AI, Machine Learning, and Data Analytics, having worked with Python and its powerful libraries, including NumPy, Pandas, Seaborn, Scikit-Learn, and TensorFlow.
 
