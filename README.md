@@ -1,6 +1,7 @@
 # 💫 About Me:
 🚀 Experienced Mobile App Engineer Android & iOS, I have worked on diverse projects, aimed at delivering high-quality and innovative solutions in the domain of technology. Create highly scalable and fully responsive full-stack mobile applications include both frontend and backend. My strong communication skills and commitment to meeting deadlines make me a reliable contributor to any development team. Passionate about stabilize code quality, scalability and stay updated with the latest trends, tools, and best practices.
-✅ Open for relocation
+
+✅ Open for new opportunities
 
 
 ## 🌐 Socials:
